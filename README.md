@@ -16,5 +16,5 @@ This project demonstrates skills in **ML model development, API integration, and
 - **Backend:** Flask
 - **Deployment:** Docker (Planned)
 
-## 📂 Repository Structure (to be updated)
+
 
