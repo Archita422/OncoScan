@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 
 # Page configuration
 st.set_page_config(
-    page_title="Breast Cancer Detection",
+    page_title="OncoScan",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -400,10 +400,11 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: #888; font-size: 12px;">
-        <p>🔬 Breast Cancer Detection System | Neural Network Model</p>
+        <p>🔬 OncoScan | Neural Network Model to detect Breast Cancer</p>
         <p>Developed with Streamlit, TensorFlow/Keras, and scikit-learn</p>
         <p>⚠️ Not for clinical diagnosis. Always consult healthcare professionals.</p>
     </div>
     """,
     unsafe_allow_html=True
+
 )
